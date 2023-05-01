@@ -1,0 +1,10 @@
+{
+  "name": "unity-services",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.7.0"
+  }
+}
